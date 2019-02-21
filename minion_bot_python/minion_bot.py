@@ -5,7 +5,7 @@ import requests
 import time
 import urllib
 
-TOKEN = '284370628:AAH1I1vCvPgNX1yLSquNVrFGx-AtwbbMW5w'
+TOKEN = 
 URL = 'https://api.telegram.org/bot{}/'.format(TOKEN)
 
 
